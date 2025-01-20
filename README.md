@@ -24,3 +24,5 @@ Footer, Header, Main, ProtectedRoute.
 
 Уровень 3. Запуск готового кода
 НЕ ПЛАНИРУЕТСЯ
+
+Задание 2: https://drive.google.com/file/d/1lD6dYBko_jm7Qejjh9sLSdjJO1VbUlag/view?usp=sharing
